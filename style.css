@@ -1,0 +1,46 @@
+body{
+    background-image: url('https://i.pinimg.com/originals/5a/8a/76/5a8a76304777dd1ca7d15bebcd178453.jpg');
+}
+.header{
+    margin: 0%;
+    background-color: rgba(147, 239, 255, 0.922);
+    color: whitesmoke;
+    width: 100%;
+    height: fit-content;
+    padding: 10px;
+    font-size: x-large;
+    box-shadow: 5px 5px 5px gray;
+    font-family: 'Playfair Display', serif !important;
+    font-variant: small-caps;
+}
+.Note{
+    color: crimson !important;
+    font-size: larger !important;
+
+}
+.heading{
+    background-color: blueviolet;
+    color: white;
+    font-size: xx-large !important;
+    padding: 5px;
+    border: 3px violet solid;
+    box-shadow: 5px 5px 5px gray;
+    }
+    .copy_right_footer{
+        font-family: 'Architects Daughter', cursive;
+        background-color: darkgray;
+        color: black;
+      width: 100%;
+        position: fixed;
+    bottom: 0;
+text-align: center;  
+font-variant: small-caps;  
+line-height: 2;
+font-size: larger;
+}
+Canvas{
+    margin-top: 290px;
+    border: 2px black solid;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 25px;
+}
